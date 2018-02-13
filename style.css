@@ -1,0 +1,23 @@
+table{
+	font-size: 12px;
+}
+
+h2{
+	text-align: center;
+}
+
+#btnGetRequest{
+	margin: 20px;
+	margin-left: 200px;
+}
+
+.leftSide th{
+	width: 80px;
+	text-align: center;
+}
+
+.col{
+	border: 1px solid grey;
+	height: 700px;
+}
+
